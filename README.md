@@ -1,0 +1,4 @@
+- Hello, I’m Gavin White :)
+- I’m interested in the world of cyber
+- I’m currently learning coding basics and C++
+- I'm attending the University of Colorado at Boulder and pursuing a degree in Computer Science
