@@ -8,7 +8,7 @@
 
 ## Instilation: 
 **BOlD** THis is an image example:  
-![Link to image text](https://imgur.com/a/ye2Dt9C.png)
+![Link to image text](https://previews.123rf.com/images/fordzolo/fordzolo1506/fordzolo150600296/41026708-example-white-stamp-text-on-red-backgroud.jpg)
 
 ## Usage:
 *This is a helpful
