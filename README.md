@@ -11,9 +11,9 @@
 ![Link to image text](https://previews.123rf.com/images/fordzolo/fordzolo1506/fordzolo150600296/41026708-example-white-stamp-text-on-red-backgroud.jpg)
 
 ## Usage:
-*This is a helpful
-*Bullet pointed
-*List that I used
+* his is a helpful
+* Bullet pointed
+* List that I used
 
 
 # IntroToGitHub
