@@ -1,8 +1,20 @@
+# Porject title: test?
 
-- Hello, I’m Gavin White :)
-- I’m interested in the world of cyber
-- I’m currently learning coding basics and C++
-- I'm attending the University of Colorado at Boulder and pursuing a degree in Computer Science
+## Description:
+1. This is
+2. A numbered list
+3. That is used as an example
+
+## Instilation: 
+**BOlD** THis is an image example:  
+![Alt text](https://imgur.com/a/ye2Dt9C.png)
+
+## Usage:
+*This is a helpful
+*Bullet pointed
+*List that I used
+
+
 
 # IntroToGitHub
 Version control summary: Version control is a system that tracks changes to files over time, allowing users to manage and revert to previous versions. 
