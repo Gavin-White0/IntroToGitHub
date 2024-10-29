@@ -7,7 +7,7 @@
 
 ## Instilation: 
 **BOlD** THis is an image example:  
-![Alt text](https://imgur.com/a/ye2Dt9C.png)
+![Link to image text](https://imgur.com/a/ye2Dt9C.png)
 
 ## Usage:
 *This is a helpful
